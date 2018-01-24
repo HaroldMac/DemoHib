@@ -17,11 +17,11 @@ public class App
     {
         Alien donald = new Alien();
         AlienName an = new AlienName();
-        an.setFname("Harold");
+        an.setFname("Lena");
         an.setLname("Macdonald");
-        an.setMname("Allan");
+        an.setMname("Cathrine");
         
-        donald.setAid(101);
+        donald.setAid(102);
         donald.setAname(an);
         donald.setColor("Green");
         
